@@ -1,7 +1,7 @@
 # DL2021-Unsupervised
 Python Notebooks to run the code examples of DL unsupervised algorithms for autoencoders, variational autoencoders, and GANs.  
 
-These notebooks are meant to teach Keras with some unsupervised DL algorithms. The best sequence to use these notebooks are the following:
+These notebooks are meant to teach Keras with some unsupervised DL algorithms. The best sequence to use these notebooks is the following:
 
 - Autoencoder_MLP_Sequential.ipynb: Building an autoencoder with MultiLayer Perceptron (MLP) using a Sequential Model in Keras
 - Autoencoder_CNN_Sequential.ipynb: Same as above but using convolutional neural nets rather than MLP 
